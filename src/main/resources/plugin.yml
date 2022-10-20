@@ -1,0 +1,7 @@
+name: FireworksOnJoin
+version: '${project.version}'
+main: io.github.bloodynoah.fireworksonjoin.FireworksOnJoin
+api-version: 1.19
+authors: [ BloodyNoah ]
+description: Summons some fireworks when a player joins
+website: bloodynoah.github.io
